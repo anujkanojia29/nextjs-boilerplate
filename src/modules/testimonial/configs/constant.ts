@@ -1,0 +1,1 @@
+export const TESTIMONAL_HEADER = "Testimonial";
